@@ -1,0 +1,15 @@
+/*1.1. Escreva um programa que sorteia um número de 1 a 10, dá duas chances para que o usuário acerte, mas informa se o número sorteado é maior ou menor que o primeiro palpite.*/
+
+Digite um numero de 1 a 10
+se
+Esse numero for o sorteado
+Parabéns você acertou!
+Senão
+Digite um novo numero de 1 a 10
+Se for o sorteado
+Parabens você acertou!
+Senão
+Não foi dessa vez
+Se o primeiro numero digitado é > que o segundo numero digitado
+Apresenta a mensagem num1 é maior que num2
+Senão o primeiro numero digitado é < que o segundo numero digitado
